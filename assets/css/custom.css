@@ -1,0 +1,10 @@
+p .contact {
+    color: white;
+    transition: ease-in-out 0.3s;
+}
+p .contact:hover {
+    color: #35e888;
+}
+.gslide-description {
+    display: none;
+}
