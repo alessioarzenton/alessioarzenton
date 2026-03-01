@@ -8,7 +8,7 @@ I work for a software development company, building custom web solutions. I use 
 
 **Backend** — PHP · WordPress · Laravel · MySQL
 
-**Frontend** — HTML · CSS · JavaScript · React
+**Frontend** — React · Tailwind CSS · Alpine · Blade
 
 **WordPress** — Roots Bedrock · Roots Sage
 
