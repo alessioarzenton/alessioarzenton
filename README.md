@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Alessio 👋
 
-<!--
-**alessioarzenton/alessioarzenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer specializing in PHP, WordPress and Laravel.
 
-Here are some ideas to get you started:
+I work for a software development company, building custom web solutions. I use Claude Code and AI agents daily as development support tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Backend** — PHP · WordPress · Laravel · MySQL
+
+**Frontend** — HTML · CSS · JavaScript · React
+
+**WordPress** — Roots Bedrock · Roots Sage
+
+**Tools** — Git · Docker · Vite · Composer
+
+**AI** — Claude Code · AI Agents
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessioarzenton/)
